@@ -2,4 +2,6 @@
 # "" Interpolação #{}
 # mensagem = <<~txt 
 nome = "Leandro"
-puts nome
+mensagem = " Bem vido #{nome}"
+puts mensagem
+
