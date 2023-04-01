@@ -1,4 +1,4 @@
-#
+# Escrever um algoritmo para ler um valor (Do Teclado) E Escreva na tela o seu antecessor.
 puts 
 puts "********** Inicio *********"
 puts 
