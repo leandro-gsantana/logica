@@ -1,1 +1,1 @@
-#ok
+nome = "leandro"
